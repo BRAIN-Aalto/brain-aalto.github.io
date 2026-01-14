@@ -34,7 +34,7 @@ nav-people: true
     Playing 4D chess
 :::
 
-## Alumnis
+## Alumni
 
 ::: two-columns
 -
