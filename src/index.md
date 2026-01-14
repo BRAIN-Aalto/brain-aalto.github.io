@@ -15,17 +15,6 @@ Welcome to the website of the BRAIN Lab.
 - Brain
 - Symmetry
 - AI
-- whatever
-- and more
-:::
-
-:::
 
 ### Contacts
-- mail
-- phone
-- letterbox
-
-### News
-- Jan 2026: Website (re)launched
-- Sep 2025: [Our paper](https://www.jmlr.org/papers/volume26/24-2175/24-2175.pdf) is now out on JMLR!
+- mail: stephane.deny@aalto.fi
