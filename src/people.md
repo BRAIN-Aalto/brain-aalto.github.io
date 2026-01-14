@@ -3,8 +3,6 @@ title: People
 nav-people: true
 ---
 
-# The team
-
 ## The PI
 
 **Stéphane Deny** ([website](https://sites.google.com/view/stephanedeny/home))
