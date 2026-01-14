@@ -17,5 +17,5 @@ Netta Ollikka, Amro Kamal Mohamed Abbas, Andrea Perin, Markku Kilpeläinen, Sté
 # Preprints
 
 - **[A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments](https://arxiv.org/abs/2512.13517)**  
-Raymond Khazoum, Daniela Fernandes, Aleksandr Krylov, Qin Li, Stéphane Deny 
+Raymond Khazoum, Daniela Fernandes, Aleksandr Krylov, Qin Li, Stéphane Deny  
 **arXiv** 2025
