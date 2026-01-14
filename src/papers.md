@@ -5,7 +5,7 @@ nav-papers: true
 
 ## Papers
 
-On the Ability of Deep Networks to Learn Symmetries from Data: A Neural Kernel Theory [PDF](https://www.jmlr.org/papers/volume26/24-2175/24-2175.pdf)  
+On the Ability of Deep Networks to Learn Symmetries from Data: A Neural Kernel Theory [[PDF](https://www.jmlr.org/papers/volume26/24-2175/24-2175.pdf)]  
 Andrea Perin, Stéphane Deny  **JMLR 2025**  
 
 ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis [PDF](https://openreview.net/pdf?id=amUisgrmte)  
