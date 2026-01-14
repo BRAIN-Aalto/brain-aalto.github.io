@@ -3,11 +3,11 @@ title: People
 nav-people: true
 ---
 
-## The PI
+## Principal Investigator
 
 **Stéphane Deny** ([website](https://sites.google.com/view/stephanedeny/home))
 
-## The PhDs
+## Doctoral Researchers
 
 ::: two-columns
 - **Riina Pöllänen**  
@@ -25,7 +25,7 @@ nav-people: true
     Symmetries, kernels, local learning rules
 :::
 
-## The Interns and Research Assistants
+## Interns and Research Assistants
 
 ::: two-columns
 - **Imose Iduozee**
