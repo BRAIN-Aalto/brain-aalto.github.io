@@ -20,6 +20,6 @@ Welcome to the website of the BRAIN Lab.
 :::
 
 ### Contacts
-- mail: stephane.deny@aalto.fi
+- contact: stephane.deny@aalto.fi
 
 
