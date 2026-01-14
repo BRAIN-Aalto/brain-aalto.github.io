@@ -1,4 +1,7 @@
-% Papers
+---
+title: Papers
+nav-papers: true
+---
 
 # Papers
 

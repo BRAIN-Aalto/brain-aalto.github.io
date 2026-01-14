@@ -1,16 +1,22 @@
-/* Base layout */
+/* Palette:
+   Background: #121720 (Midnight Navy)
+   Surface:    #1b222d (Slate Blue Surface)
+   Text:       #e2e8f0 (Cool White)
+   Muted:      #94a3b8 (Blue-Gray)
+   Accent:     #60a5fa (Bright Sky Blue)
+   Border:     #2e3a4d (Deep Slate Border)
+*/
+
 body {
-    font-family: system-ui, sans-serif;
+    font-family: system-ui, -apple-system, sans-serif;
     max-width: 700px;
-    /* Move layout slightly right on desktop */
     margin: 0 0 0 10%; 
     padding: 2rem;
     line-height: 1.6;
-    background: #fff;
-    color: #111;
+    background-color: #121720;
+    color: #e2e8f0;
 }
 
-/* Mobile: Remove the left margin so we don't waste screen real estate */
 @media (max-width: 600px) {
     body {
         margin: 0;
@@ -18,61 +24,111 @@ body {
     }
 }
 
-/* Navigation */
+/* FIX: Bullet alignment */
+li p {
+    margin: 0;
+    display: inline;
+}
+
+/* Header & Navigation */
 header {
     text-align: left;
     margin-bottom: 3rem;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #2e3a4d;
     padding-bottom: 1.5rem;
+}
+
+header h1 {
+    color: #ffffff;
+    margin: 0 0 0.5rem 0;
 }
 
 nav {
     display: flex;
     gap: 1.5rem;
-    margin-top: 1rem;
 }
 
 nav a {
-    color: #555;
+    color: #94a3b8;
     font-weight: 500;
-    font-size: 0.95rem;
-    padding-bottom: 4px; /* Space for the "fake" border */
-    transition: color 0.2s, box-shadow 0.2s;
     text-decoration: none;
+    padding-bottom: 4px;
+    background-image: linear-gradient(#60a5fa, #60a5fa);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size 0.2s, color 0.2s;
 }
 
+/* Hover effect */
 nav a:hover {
-    color: #0366d6;
-    /* Use box-shadow instead of border to prevent layout shifting */
-    box-shadow: 0 2px 0 0 #0366d6; 
+    color: #60a5fa;
+    background-size: 100% 2px;
 }
 
-/* Rest of the layout */
-.two-columns ul {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 0.5rem 2rem;
-    padding-left: 0;
+/* CURRENT PAGE INDICATOR:
+   Apply class="current" to the active link in your HTML 
+*/
+nav a.current {
+    color: #60a5fa;
+    background-size: 100% 2px;
+    pointer-events: none; /* Optional: prevents clicking the page you're already on */
 }
 
+/* Bio Layout */
 .bio {
     display: flex;
     align-items: flex-start;
-    gap: 1.5rem;
-    flex-wrap: wrap;
-    margin-bottom: 2rem;
+    gap: 2rem;
+    margin-bottom: 3rem;
     flex-direction: row-reverse;
 }
 
 .bio .bio-img {
-    border-radius: 50%;
+    border-radius: 12px;
     width: 150px;
-    flex-shrink: 0;
+    border: 1px solid #2e3a4d;
+    /* Subtle blue glow to match the theme */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
 }
 
 .bio-content {
     flex: 1;
     font-size: 1.1rem;
+}
+
+/* Typography */
+h2, h3, h4 {
+    color: #ffffff;
+    margin-top: 2.5rem;
+}
+
+a {
+    color: #60a5fa;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(96, 165, 250, 0.2);
+}
+
+a:hover {
+    border-bottom-color: #60a5fa;
+}
+
+blockquote {
+    border-left: 4px solid #60a5fa;
+    padding: 0.75rem 1.5rem;
+    background: #1b222d;
+    font-style: italic;
+    margin: 2rem 0;
+    color: #cbd5e1;
+    border-radius: 0 8px 8px 0;
+}
+
+/* Two Column List */
+.two-columns ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.8rem 2rem;
+    padding-left: 1.2rem;
 }
 
 @media (max-width: 600px) {
@@ -84,21 +140,9 @@ nav a:hover {
     }
 }
 
-h1, h2, h3, h4, h5, h6 {
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-}
-
 main img {
-    border-radius: 10px;
-    display: block;
-    margin: 1rem 0;
+    border-radius: 8px;
+    margin: 2rem 0;
     max-width: 100%;
-}
-
-blockquote {
-    border-left: 3px solid #ccc;
-    padding-left: 1rem;
-    color: #555;
-    margin: 1rem 0;
+    border: 1px solid #2e3a4d;
 }

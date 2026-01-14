@@ -1,6 +1,7 @@
-% The BRAIN Lab
-% The creator
-% 2026-01-14
+---
+title: Home
+nav-home: true
+---
 
 # Welcome to the BRAIN Lab webpage!
 

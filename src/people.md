@@ -1,4 +1,7 @@
-% People
+---
+title: People
+nav-people: true
+---
 
 # The team
 
@@ -11,7 +14,6 @@
 ::: two-columns
 - **Riina Pöllänen**  
     Doing MEG stuff
-
 - **Netta Ollikka**
 
 - **Akseli Pullinen**
