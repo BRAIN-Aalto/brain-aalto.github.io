@@ -15,16 +15,12 @@ Welcome to the website of the BRAIN Lab.
 - Brain
 - Symmetry
 - AI
-- whatever
-- and more
 :::
 
 :::
 
 ### Contacts
-- mail
-- phone
-- letterbox
+- mail: stephane.deny@aalto.fi
 
 ### News
 - Jan 2026: Website (re)launched
