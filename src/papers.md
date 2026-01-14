@@ -19,5 +19,5 @@ Amro Abbas, Stéphane Deny,  **AAAI 2023**
   
 ## Preprints
 
-A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments [[PDF](https://arxiv.org/abs/2512.13517)]   
+A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments [[arXiv](https://arxiv.org/abs/2512.13517)]   
 Raymond Khazoum, Daniela Fernandes, Aleksandr Krylov, Qin Li, Stéphane Deny,  **arXiv 2025**  
