@@ -4,22 +4,38 @@
 
 ## The PI
 
-Stéphane Deny ([website](https://sites.google.com/view/stephanedeny/home))
+**Stéphane Deny** ([website](https://sites.google.com/view/stephanedeny/home))
 
 ## The PhDs
 
-- Riina Pöllänen
-- Netta Ollikka
-- Akseli Pullinen
-- Alina Popadina
-- Raymond Khazoum ([website](https://rkhz.github.io/))
-- Andrea Perin ([website](https://andrea-perin.github.io))
+::: two-columns
+- **Riina Pöllänen**  
+    Doing MEG stuff
+
+- **Netta Ollikka**
+
+- **Akseli Pullinen**
+
+- **Alina Popadina**  
+    Popping out
+
+- **Raymond Khazoum** ([website](https://rkhz.github.io/))
+
+- **Andrea Perin** ([website](https://andrea-perin.github.io))  
+    Symmetries, kernels, local learning rules
+:::
 
 ## Interns/Research assistants
 
-- Imose Iduozee
-- Raihan Gafur
+::: two-columns
+- **Imose Iduozee**
+
+- **Raihan Gafur**  
+    Playing 4D chess
+:::
 
 ## Alumnis
 
+::: two-columns
 -
+:::
