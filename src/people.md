@@ -25,7 +25,7 @@ nav-people: true
     Symmetries, kernels, local learning rules
 :::
 
-## Interns/Research assistants
+## The Interns and Research Assistants
 
 ::: two-columns
 - **Imose Iduozee**
