@@ -1,9 +1,9 @@
 % The BRAIN Lab
 % The creator
 % 2026-01-14
-% ### News
-% - Jan 2026: Website (re)launched
-% - Sep 2025: [Our paper](https://www.jmlr.org/papers/volume26/24-2175/24-2175.pdf) is now out on JMLR!
+% News
+% Jan 2026: Website (re)launched
+% Sep 2025: [Our paper](https://www.jmlr.org/papers/volume26/24-2175/24-2175.pdf) is now out on JMLR!
 
 # Welcome to the BRAIN Lab webpage!
 
