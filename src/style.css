@@ -1,0 +1,159 @@
+@font-face {
+  font-family: 'Source Code Pro';
+  src: url('./fonts/SourceCodePro-Regular.woff2') format('woff2'),
+       url('./fonts/SourceCodePro-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Bio layout */
+.bio {
+    display: flex;
+    align-items: flex-start; /* align text block with top of image */
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+    flex-direction: row-reverse; /* puts image on the right */
+}
+
+/* Image inside bio */
+.bio .bio-img {
+    border-radius: 50%;
+    width: 150px;
+    flex-shrink: 0;
+    margin: 0;
+}
+
+/* Wrap all non-image content together */
+.bio-content {
+    flex: 1; /* take remaining width */
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+
+figure {
+  text-align: center;   /* centers both image and caption */
+}
+
+figcaption {
+  text-align: center;   /* centers caption only */
+  font-style: italic;   /* optional, make it look nicer */
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: system-ui, sans-serif;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-align: left; /* force all headers left */
+}
+
+/* Base layout */
+body {
+    font-family: system-ui, sans-serif;
+    max-width: 700px;
+    margin: auto;
+    padding: 2rem;
+    line-height: 1.6;
+    background: #fff;
+    color: #111;
+}
+
+/* Links */
+a {
+    color: #0366d6;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+/* Navigation */
+header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+nav a {
+    margin: 0 0.5rem;
+}
+
+/* Images */
+main img {
+    border-radius: 10px;
+    display: block;
+    margin: 1rem auto;
+    max-width: 100%;
+}
+
+/* Blockquotes */
+blockquote {
+    border-left: 3px solid #ccc;
+    padding-left: 1rem;
+    color: #555;
+    margin: 1rem 0;
+}
+
+/* Lists spacing */
+ul,
+ol {
+    margin: 1rem 0 1rem 2rem;
+}
+
+/* Use Source Code Pro everywhere monospace is needed */
+pre,
+code {
+  font-family: 'Source Code Pro', 'Courier New', monospace;
+}
+
+/* Code block containers - card style */
+pre {
+  background-color: #f6f8fa;
+  border: 1px solid #e1e4e8;
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  margin: 1em 0;
+  overflow-x: auto;
+}
+
+/* Inline code only */
+:not(pre) > code {
+  font-size: 0.95em;
+  background: #f5f5f5;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+}
+
+/* ASCII art blocks: keep tight ligatures */
+.ascii-art,
+.ascii-art code {
+  font-variant-ligatures: contextual;
+  font-feature-settings: "calt" 1, "liga" 1;
+  white-space: pre;
+  font-size: 14px;     /* lock to grid */
+  line-height: 14px;
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 1rem auto;
+  display: block;
+  text-align: center;
+  box-shadow: none;    /* Remove card styling from ASCII art */
+}
+
+/* Syntax colors for Tango highlighting */
+.kwd { color: #0000ff; font-weight: bold; } /* keywords */
+.dt  { color: #a52a2a; } /* data types / constants */
+.dv  { color: #a52a2a; } /* numeric literals */
+.st  { color: #008000; } /* strings */
+.co  { color: #808080; } /* comments */
+.op  { color: #000000; } /* operators */
+.fu  { color: #0000ff; } /* function names */
+.re  { color: #800000; } /* regex / special literals */
+
