@@ -14,7 +14,9 @@ It is a long established fact that a reader will be distracted by the readable c
 ::: columns
 ![](imgs/riina.jpg)
 **Riina Pöllänen**
-Doing MEG stuff
+Visual object representations  
+Neural dynamics  
+MEG & Computational modeling  
 
 ![](imgs/netta.jpg)
 **Netta Ollikka**
@@ -26,16 +28,18 @@ Extending 3D scenes
 
 ![](imgs/alina.jpg)
 **Alina Popadina**
-Popping out
+Popping out  
+Psychophysics
 
-![](imgs/ray.jpg)
+![](imgs/ray2.jpg)
 **Raymond Khazoum [[website](https://rkhz.github.io)]**
-Mentally rotating
+Mental rotation  
+Neurosymbolic computing
 
 ![](imgs/andrea.jpg)
 **Andrea Perin [[website](https://andrea-perin.github.io)]**
 Symmetries  
-Kernels  
+Kernel methods  
 Local learning rules  
 :::
 
@@ -54,11 +58,15 @@ TODO
 ## Alumni
 
 ::: columns
+![](imgs/matias.jpg)
+**Matias Koponen**
+Math guy extraordinaire
+
 ![](imgs/sasha.jpg)
 **Alexandr Krylov**
 Metzler shapes and GPs
 
-![](imgs/minh.jpg)
+![](imgs/minh2.jpg)
 **Minh Ðinh Trọng**
 The prodigy
 
