@@ -10,7 +10,7 @@ Andrea Perin, Stéphane Deny,  **JMLR 2025**
 [[PDF](https://www.jmlr.org/papers/volume26/24-2175/24-2175.pdf)][[arXiv](https://arxiv.org/abs/2412.11521)]    
 
 *ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis*  
-Bernard Spiegl, Andrea Perin, Stéphane Deny, and Alexander Ilin,  **TMLR 2025**  
+Bernard Spiegl, Andrea Perin, Stéphane Deny, Alexander Ilin,  **TMLR 2025**  
 [[PDF](https://openreview.net/pdf?id=amUisgrmte)][[arXiv](https://arxiv.org/abs/2402.02906)]    
 
 *A comparison between humans and AI at recognizing objects in unusual poses*   
