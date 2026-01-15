@@ -66,7 +66,7 @@ Math guy extraordinaire
 **Alexandr Krylov**
 Metzler shapes and GPs
 
-![](imgs/minh2.jpg)
+![](imgs/minh.jpg)
 **Minh Ðinh Trọng**
 The prodigy
 
