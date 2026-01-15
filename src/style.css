@@ -24,13 +24,7 @@ body {
     }
 }
 
-/* FIX: Bullet alignment */
-li p {
-    margin: 0;
-    display: inline;
-}
-
-/* Header & Navigation */
+/* Navigation */
 header {
     text-align: left;
     margin-bottom: 3rem;
@@ -60,41 +54,9 @@ nav a {
     transition: background-size 0.2s, color 0.2s;
 }
 
-/* Hover effect */
-nav a:hover {
+nav a:hover, nav a.current {
     color: #60a5fa;
     background-size: 100% 2px;
-}
-
-/* CURRENT PAGE INDICATOR:
-   Apply class="current" to the active link in your HTML 
-*/
-nav a.current {
-    color: #60a5fa;
-    background-size: 100% 2px;
-    pointer-events: none; /* Optional: prevents clicking the page you're already on */
-}
-
-/* Bio Layout */
-.bio {
-    display: flex;
-    align-items: flex-start;
-    gap: 2rem;
-    margin-bottom: 3rem;
-    flex-direction: row-reverse;
-}
-
-.bio .bio-img {
-    border-radius: 12px;
-    width: 150px;
-    border: 1px solid #2e3a4d;
-    /* Subtle blue glow to match the theme */
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
-}
-
-.bio-content {
-    flex: 1;
-    font-size: 1.1rem;
 }
 
 /* Typography */
@@ -109,10 +71,6 @@ a {
     border-bottom: 1px solid rgba(96, 165, 250, 0.2);
 }
 
-a:hover {
-    border-bottom-color: #60a5fa;
-}
-
 blockquote {
     border-left: 4px solid #60a5fa;
     padding: 0.75rem 1.5rem;
@@ -123,26 +81,80 @@ blockquote {
     border-radius: 0 8px 8px 0;
 }
 
-/* Two Column List */
-.two-columns ul {
+/* Special Single Column Environment */
+.full-width {
+    display: block; /* No grid, just stack them vertically */
+    margin-top: 2rem;
+}
+
+.full-width p {
+    margin-bottom: 2.5rem; /* More space between people in long-form */
+    overflow: hidden;
+    line-height: 1.7; /* Slightly more breathing room for long text */
+}
+
+/* Image behavior same as before, but bigger if you like */
+.full-width p img:first-child {
+    float: left;
+    width: 80px;  /* Slightly larger for single-column layout */
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 1.5rem 0.5rem 0 !important;
+    border: 1px solid #2e3a4d;
+}
+
+.full-width strong {
+    display: block;
+    color: #ffffff;
+    font-size: 1.2rem; /* Make the name slightly more prominent */
+    margin-bottom: 0.3rem;
+}
+
+/* THE PERSON/DOUBLE COLUMN LOGIC */
+/* 1. The outer wrapper creates the 2-column grid */
+.columns {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 0.8rem 2rem;
-    padding-left: 1.2rem;
+    gap: 2rem 3rem;
+    margin-top: 2rem;
 }
 
-@media (max-width: 600px) {
-    .two-columns ul {
+/* 2. Target the paragraph (each person block) */
+.columns p {
+    margin-bottom: 0;
+    overflow: hidden; /* Clearfix for the float */
+    display: block;   /* Reset from any previous flex/grid attempts */
+}
+
+/* 3. The Image: Float it left to let text stack beside it */
+.columns p img:first-child {
+    float: left;
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 1.2rem 0.5rem 0 !important; /* Space on right and bottom */
+    border: 1px solid #2e3a4d;
+}
+
+/* 4. Ensure the name (strong) and description stack correctly */
+.columns strong {
+    display: block; 
+    color: #ffffff;
+    line-height: 1.2;
+    margin-bottom: 4px;
+}
+
+/* This handles links and other text following the image */
+.columns p br + a, 
+.columns p a + br {
+    display: inline-block;
+}
+
+/* Responsive collapse */
+@media (max-width: 700px) {
+    .columns {
         grid-template-columns: 1fr;
     }
-    .bio {
-        flex-direction: column;
-    }
-}
-
-main img {
-    border-radius: 8px;
-    margin: 2rem 0;
-    max-width: 100%;
-    border: 1px solid #2e3a4d;
 }
