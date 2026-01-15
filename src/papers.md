@@ -2,7 +2,6 @@
 title: Papers
 nav-papers: true
 ---
-
 ## Papers
 
 *On the Ability of Deep Networks to Learn Symmetries from Data: A Neural Kernel Theory*   
