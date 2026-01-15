@@ -25,7 +25,7 @@ Amro Abbas, Stéphane Deny,  **AAAI 2023**
 [[PDF](https://arxiv.org/pdf/2207.08034)][[arXiv](https://arxiv.org/abs/2207.08034)]  
 
 *On the special role of class-selective neurons in early training*  
-Omkar Ranadive, Nikhil Thakurdesai, Ari S Morcos, Matthew Leavitt, Stéphane Deny  **TMLR 2023**  
+Omkar Ranadive, Nikhil Thakurdesai, Ari S Morcos, Matthew Leavitt, Stéphane Deny,  **TMLR 2023**  
 [[PDF](https://arxiv.org/pdf/2305.17409)][[arXiv](https://arxiv.org/abs/2305.17409)]  
   
 ## Preprints
