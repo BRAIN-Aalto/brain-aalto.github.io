@@ -13,5 +13,6 @@ Our project finds its place in a uniquely suitable context where we have concomi
 
 ### Contact
 e-mail: stephane.deny@aalto.fi
+address: Aalto University, Espoo, Finland
 
 
