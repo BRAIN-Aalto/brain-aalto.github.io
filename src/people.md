@@ -57,28 +57,9 @@ TODO
 
 ## Alumni
 
-::: columns
-![](imgs/matias.jpg)
-**Matias Koponen**
-Math guy extraordinaire
-
-![](imgs/sasha.jpg)
-**Alexandr Krylov**
-Metzler shapes and GPs
-
-![](imgs/minh.jpg)
-**Minh Ðinh Trọng**
-The prodigy
-
-![](imgs/oskar.jpg)
-**Oskar Asser "Reivi" Reivinen**
-Vegan
-
-![](imgs/bernard.jpg)
-**Bernard Spiegl**
-He's teaching CERN how to do ML
-
-![](imgs/raihan.jpg)
-**Raihan Gafur [[website](https://raihanthecooldude.com/)]**
-Playing 4D chess
-:::
+* **Matias Koponen**
+* **Alexandr Krylov**
+* **Minh Ðinh Trọng**
+* **Oskar Reivinen**
+* **Bernard Spiegl**
+* **Raihan Gafur** [[website](https://raihanthecooldude.com/)]
