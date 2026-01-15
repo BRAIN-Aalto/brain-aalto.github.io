@@ -12,7 +12,7 @@ In this lab, the *Bidirectional Research in AI and Neuroscience* lab (BRAIN), we
 Our project finds its place in a uniquely suitable context where we have concomitantly: an unparalled experimental access to the brain and to large-scale open datasets of brain recordings; a good understanding of the limitations of modern deep learning approaches; an access to massive computational resources combined with modern software libraries to train neural networks; the consolidation of nascent mathematical theories of deep learning and recurrent computations in the brain. 
 
 ### Contact
-e-mail: stephane.deny@aalto.fi
+e-mail: stephane.deny@aalto.fi  
 address: Aalto University, Espoo, Finland
 
 
