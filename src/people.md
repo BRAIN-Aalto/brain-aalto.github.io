@@ -31,7 +31,7 @@ Extending 3D scenes
 Popping out  
 Psychophysics
 
-![](imgs/ray2.jpg)
+![](imgs/ray.jpg)
 **Raymond Khazoum [[website](https://rkhz.github.io)]**
 Mental rotation  
 Neurosymbolic computing
