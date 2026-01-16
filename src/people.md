@@ -5,7 +5,7 @@ nav-people: true
 
 ::: full-width
 ![](imgs/stephane.jpg)
-**Stéphane Deny - Principal Investigator [[website](https://sites.google.com/view/stephanedeny/home)]**  
+**Stéphane Deny - Principal Investigator [[website](https://sites.google.com/view/stephanedeny/home)]**
 As philospher Émile-Auguste Chartier used to say: "Nothing is more dangerous than an idea, when it's the only one you have".
 :::
 
@@ -32,12 +32,12 @@ Popping out
 Psychophysics
 
 ![](imgs/ray.jpg)
-**Raymond Khazoum [[website](https://rkhz.github.io)]**  
+**Raymond Khazoum [[website](https://rkhz.github.io)]**
 Mental rotation  
 Neurosymbolic computing
 
 ![](imgs/andrea.jpg)
-**Andrea Perin [[website](https://andrea-perin.github.io)]**  
+**Andrea Perin [[website](https://andrea-perin.github.io)]**
 Symmetries  
 Kernel methods  
 Local learning rules  
