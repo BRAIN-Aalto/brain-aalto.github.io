@@ -96,8 +96,8 @@ blockquote {
 /* Image behavior same as before, but bigger if you like */
 .full-width p img:first-child {
     float: left;
-    width: 80px;  /* Slightly larger for single-column layout */
-    height: 80px;
+    width: 100px;  /* Slightly larger for single-column layout */
+    height: 100px;
     border-radius: 50%;
     object-fit: cover;
     margin: 0 1.5rem 0.5rem 0 !important;
@@ -130,8 +130,8 @@ blockquote {
 /* 3. The Image: Float it left to let text stack beside it */
 .columns p img:first-child {
     float: left;
-    width: 65px;
-    height: 65px;
+    width: 80px;
+    height: 80px;
     border-radius: 50%;
     object-fit: cover;
     margin: 0 1.2rem 0.5rem 0 !important; /* Space on right and bottom */

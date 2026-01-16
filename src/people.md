@@ -16,7 +16,7 @@ As philospher Émile-Auguste Chartier liked to say: "Nothing is more dangerous t
 **Riina Pöllänen**
 Visual object representations  
 Neural dynamics  
-MEG & Computational modeling  
+MEG and Computational modeling  
 
 ![](imgs/netta.jpg)
 **Netta Ollikka**
@@ -69,4 +69,5 @@ TODO
 * **Qin Li**
 * **Oskar Reivinen** (vegan)
 * **Bernard Spiegl**
+* **Daniela Fernandes**
 * **Raihan Gafur** [[website](https://raihanthecooldude.com/)]
