@@ -6,7 +6,7 @@ nav-people: true
 ::: full-width
 ![](imgs/stephane.jpg)
 **Stéphane Deny - Principal Investigator [[website](https://sites.google.com/view/stephanedeny/home)]**
-As philospher Émile-Auguste Chartier used to say: "Nothing is more dangerous than an idea, when it's the only one you have".
+As philospher Émile-Auguste Chartier liked to say: "Nothing is more dangerous than an idea, when it's the only one you have".
 :::
 
 ## Doctoral Researchers
@@ -62,6 +62,7 @@ TODO
 * **Alexandr Krylov**
 * **Minh Ðinh Trọng**
 * **Camille Begon**
+* **Laura Gambaretto**
 * **Erwan David**
 * **Qin Li**
 * **Oskar Reivinen** (vegan)
