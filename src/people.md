@@ -34,7 +34,8 @@ Psychophysics
 ![](imgs/ray.jpg)
 **Raymond Khazoum [[website](https://rkhz.github.io)]**
 Mental rotation  
-Neurosymbolic computing
+Neurosymbolic computing  
+(empty inside)
 
 ![](imgs/andrea.jpg)
 **Andrea Perin [[website](https://andrea-perin.github.io)]**
@@ -63,6 +64,6 @@ TODO
 * **Camille Begon**
 * **Erwan David**
 * **Qin Li**
-* **Oskar Reivinen**
+* **Oskar Reivinen** (vegan)
 * **Bernard Spiegl**
 * **Raihan Gafur** [[website](https://raihanthecooldude.com/)]
