@@ -33,9 +33,8 @@ Psychophysics
 
 ![](imgs/ray.jpg)
 **Raymond Khazoum [[website](https://rkhz.github.io)]**
-Mental rotation  
-Neurosymbolic computing  
-(empty inside)
+Bio-inspired deep learning  
+Equivariance and symbolic representations
 
 ![](imgs/andrea.jpg)
 **Andrea Perin [[website](https://andrea-perin.github.io)]**
