@@ -20,7 +20,9 @@ MEG & Computational modeling
 
 ![](imgs/netta.jpg)
 **Netta Ollikka**
-Now hopefully happy with the layout 😇
+Object recognition  
+Recurrence in vision  
+Psychophysics & TMS  
 
 ![](imgs/akseli.jpg)
 **Akseli Pullinen**
@@ -28,8 +30,9 @@ Extending 3D scenes
 
 ![](imgs/alina.jpg)
 **Alina Popadina**
-Popping out  
-Psychophysics
+Visual Search  
+Visual Perception  
+Eye-Tracking  
 
 ![](imgs/ray.jpg)
 **Raymond Khazoum [[website](https://rkhz.github.io)]**
