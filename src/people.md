@@ -60,6 +60,9 @@ TODO
 * **Matias Koponen**
 * **Alexandr Krylov**
 * **Minh Ðinh Trọng**
+* **Camille Begon**
+* **Erwan David**
+* **Qin Li**
 * **Oskar Reivinen**
 * **Bernard Spiegl**
 * **Raihan Gafur** [[website](https://raihanthecooldude.com/)]
