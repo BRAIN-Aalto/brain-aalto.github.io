@@ -22,11 +22,13 @@ MEG and Computational modeling
 **Netta Ollikka**
 Object recognition  
 Recurrence in vision  
-Psychophysics & TMS  
+Psychophysics and TMS  
 
 ![](imgs/akseli.jpg)
 **Akseli Pullinen**
-Extending 3D scenes  
+Virtual Reality  
+3D scenes  
+Visual Perception  
 
 ![](imgs/alina.jpg)
 **Alina Popadina**
