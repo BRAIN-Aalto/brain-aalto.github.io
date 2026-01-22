@@ -57,7 +57,7 @@ Self-supervising stringy donuts
 
 ![](imgs/imose.jpg)
 **Imose Iduozee**
-TODO
+Human visual outlier detection
 :::
 
 ## Alumni
