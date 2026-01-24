@@ -3,7 +3,7 @@ title: Home
 nav-home: true
 ---
 
-# Welcome to the BRAIN Lab webpage!
+# Welcome to the BRAIN Lab webpage
 
 In the *Bidirectional Research in AI and Neuroscience* Lab (BRAIN), we seek to understand how both humans and artificial systems treat visual scenes, with a particular attention to cases where humans are more robust than AI. For this, we adopt an interdisciplinary approach comprising:
 
