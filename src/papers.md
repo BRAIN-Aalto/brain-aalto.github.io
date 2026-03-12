@@ -2,11 +2,11 @@
 title: Papers
 nav-papers: true
 ---
-## Papers
+## Publications
 
 *Latent Equivariant Operators for Robust Object Recognition: Promises and Challenges*   
 Minh Dinh, Stéphane Deny  
-**ICLR GRaM Workshop (TinyPaper)**  
+**ICLR GRaM Workshop (TinyPaper) 2026**  
 [[PDF](https://arxiv.org/pdf/2602.18406)][[arXiv](https://arxiv.org/abs/2602.18406)]    
 
 *On the Ability of Deep Networks to Learn Symmetries from Data: A Neural Kernel Theory*   
