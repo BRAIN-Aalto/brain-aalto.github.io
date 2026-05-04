@@ -4,6 +4,11 @@ nav-papers: true
 ---
 ## Publications
 
+*A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments*   
+Raymond Khazoum, Daniela Fernandes, Aleksandr Krylov, Qin Li, Stéphane Deny  
+**ICML 2026**  
+[[PDF](https://arxiv.org/pdf/2512.13517)][[arXiv](https://arxiv.org/abs/2512.13517)]    
+
 *Latent Equivariant Operators for Robust Object Recognition: Promises and Challenges*   
 Minh Dinh, Stéphane Deny  
 **ICLR GRaM Workshop (TinyPaper) 2026**  
@@ -41,7 +46,10 @@ Omkar Ranadive, Nikhil Thakurdesai, Ari S Morcos, Matthew Leavitt, Stéphane Den
   
 ## Preprints
 
-*A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments*   
-Raymond Khazoum, Daniela Fernandes, Aleksandr Krylov, Qin Li, Stéphane Deny  
-**arXiv 2025**  
-[[PDF](https://arxiv.org/pdf/2512.13517)][[arXiv](https://arxiv.org/abs/2512.13517)]    
+## Blog Posts
+
+4-Dimensional Objects as a Tool to Study Symmetry Learning in Humans and Machines
+**ICLR GRam Workshop 2026 (BlogPost Track)** 
+Raihan Gafur
+
+
