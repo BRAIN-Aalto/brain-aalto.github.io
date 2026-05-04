@@ -50,7 +50,7 @@ Omkar Ranadive, Nikhil Thakurdesai, Ari S Morcos, Matthew Leavitt, Stéphane Den
 
 4-Dimensional Objects as a Tool to Study Symmetry Learning in Humans and Machines  
 **ICLR GRam Workshop 2026 (BlogPost Track)**  
-Raihan Gafur
+Raihan Gafur  
 [[POST](https://gram-blogposts.github.io/2026/blog/2026/4-Dimensional-Objects-as-a-Tool-to-Study-Symmetry-Learning-in-Humans-and-Machines/)]
 
 
