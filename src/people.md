@@ -55,13 +55,14 @@ Local learning rules
 **Sebastian Hannula**
 Self-supervising stringy donuts
 
-![](imgs/imose.jpg)
-**Imose Iduozee**
-Human visual outlier detection
+![](imgs/raihan.jpg)
+**Raihan Gafur**
+Explorer of the 4th Dimension
 :::
 
 ## Alumni
 
+* **Imose Iduozee**
 * **Matias Koponen**
 * **Alexandr Krylov**
 * **Minh Ðinh Trọng**
