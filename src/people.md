@@ -56,7 +56,7 @@ Local learning rules
 Self-supervising stringy donuts
 
 ![](imgs/raihan.jpg)
-**Raihan Gafur**
+**Raihan Gafur [[website](https://raihanthecooldude.com/)]**
 Explorer of the 4th Dimension
 :::
 
@@ -73,4 +73,3 @@ Explorer of the 4th Dimension
 * **Oskar Reivinen** (vegan)
 * **Bernard Spiegl**
 * **Daniela Fernandes**
-* **Raihan Gafur** [[website](https://raihanthecooldude.com/)]
