@@ -1,6 +1,6 @@
 ---
 title: Lab Meetings
-nav-papers: true
+nav-blog: true
 ---
 
 *A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments*   
