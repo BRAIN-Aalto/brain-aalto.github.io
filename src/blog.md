@@ -1,14 +1,18 @@
 ---
 title: Lab Meetings
-nav-blog: true
+nav-papers: true
 ---
 
-*A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments*   
-Raymond Khazoum, Daniela Fernandes, Aleksandr Krylov, Qin Li, Stéphane Deny  
-**ICML 2026**  
-[[PDF](https://arxiv.org/pdf/2512.13517)][[arXiv](https://arxiv.org/abs/2512.13517)]    
+**Lab meeting 11.6.2026**  
 
-*Latent Equivariant Operators for Robust Object Recognition: Promises and Challenges*   
-Minh Dinh, Stéphane Deny  
-**ICLR GRaM Workshop (TinyPaper) 2026**  
-[[PDF](https://arxiv.org/pdf/2602.18406)][[arXiv](https://arxiv.org/abs/2602.18406)]    
+Today we discussed a very interesting preprint *The illusory simplicity of the feedforward pass: evidence for the dynamical nature of stimulus encoding along the primate ventral stream* (2026) by Daniel Anthes, Sushrut Thorat, Anna Mitola, Paolo Papale, Peter König, and Tim C. Kietzmann.  
+The paper challenges the traditional view of the feedforward pass being a simple sequence of processing stages. Using neural recordings from macaque visual cortex, the authors show that information transfer from V4 to IT occurs in multiple phases, each carrying different representational content. Their results suggest that object recognition is supported by evolving neural dynamics rather than static representations.  
+
+We look forward to seeing what implications these results might have in future research and what the authors explore next.  
+
+Pre-print: [[arXiv](https://arxiv.org/abs/2604.12825)]  
+
+
+
+
+
