@@ -46,6 +46,11 @@ Omkar Ranadive, Nikhil Thakurdesai, Ari S Morcos, Matthew Leavitt, Stéphane Den
   
 ## Preprints
 
+*A novel texture backward masking method to locate critical recurrent processes in human vision*   
+Netta Ollikka, Anni Bergström, Markku Kilpeläinen, Stéphane Deny  
+**BiorXiv 2026**  
+[[PDF](https://www.biorxiv.org/content/10.64898/2026.06.17.732903v1.full.pdf)][[BiorXiv](https://www.biorxiv.org/content/10.64898/2026.06.17.732903v1)]  
+
 ## Blog Posts
 
 *4-Dimensional Objects as a Tool to Study Symmetry Learning in Humans and Machines*  
